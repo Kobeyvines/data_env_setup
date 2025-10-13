@@ -1,0 +1,5 @@
+outs:
+- md5: 9bd3c1fe18b2c6a305760de8a332e121
+  size: 15655648
+  hash: md5
+  path: food_prices.csv
