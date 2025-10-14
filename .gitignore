@@ -1,2 +1,5 @@
 /food_prices.csv
 .env
+.pre-commit-cache/
+.pre-commit-hooks/
+__pycache__
