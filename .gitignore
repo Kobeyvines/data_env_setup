@@ -3,3 +3,4 @@
 .pre-commit-cache/
 .pre-commit-hooks/
 __pycache__
+/food_prices_cleaned.csv
