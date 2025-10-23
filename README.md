@@ -47,5 +47,5 @@ Let’s see where it takes us 🚀
 ## 📚 Notes
 
 This project is part of my ongoing learning journey in **data science and analytics**,  
-combining practical skills from the **ALX Cloud Computing Program** with **Python, Pandas, and visualization tools**  
+combining practical skills from the **ALX Data Science Program** with **Python, Pandas, and visualization tools**  
 to uncover meaningful insights from Kenya’s food price data.
