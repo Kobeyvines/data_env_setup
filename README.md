@@ -13,7 +13,7 @@ Let’s see where it takes us 🚀
 ## 🧭 General Trends and Overview
 
 1. What are the overall trends in food prices (beans, maize, potatoes, and the food price index) across Kenya over the years (2007–2025)?
-2. Which provinces or counties consistently have the highest or lowest food prices?
+2. Which provinces or counties consistently have the highest or lowest food prices?(**Highest :** North Eastern, Nairobi, Riftvalley | **Lowest :** Centarl, Coast, Nyanza)
 3. How do food prices vary by month or season?
 
 ---
