@@ -47,7 +47,9 @@ Let’s see where it takes us 🚀
 ## 📚 Notes
 ---
 **NB**
+
 In my analysis, i've used **the closing price** since it is generally the most representative measure of market value for a given time period
+
 It’s consistent, comparable, and widely accepted.
 
 It reflects the final, agreed-upon market value.
